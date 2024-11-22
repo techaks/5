@@ -6,7 +6,7 @@ const Card = () => (
     {/* <Confetti /> */}
     <div className='box'>
         <div className='quote'>
-        <h2>HAPPY WALA BIRTHDAY RITU</h2>
+        <h2 style={{fontSize :"22px"}}>HAPPY WALA BIRTHDAY RITU</h2>
         </div>
    
     
